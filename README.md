@@ -2,11 +2,9 @@
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
-
-
 Making this simple comment to test linkage to integration tests start new task.
-
 Indication of new change.
+Upload some more tweaks to test valid interaction.
 
 ## Running the app
 
